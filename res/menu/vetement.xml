@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fashion" >
+
+    <item
+        android:id="@+id/action_list"
+        android:icon="@drawable/storage"
+        android:showAsAction="ifRoom|withText"
+        android:title="List"/>
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/list"
+        android:showAsAction="ifRoom|withText"
+        android:title="Add"/>
+
+</menu>

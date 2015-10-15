@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_menu_items">
+        <item>Home</item>
+        <item>My Assistance</item>        
+        <item>My Closet</item>
+        <item>calendar</item>
+        <item>Shopping</item>
+        <item>Magazines</item>
+        <item>Logout</item>               
+    </string-array>   
+    
+     <string-array name="sp">
+        <item>Upper body</item>
+        <item>Lower body</item>          
+        <item>Dress</item>
+        <item>Coat</item>
+        <item>Shoes</item>
+        <item>Accessories</item>
+                       
+    </string-array> 
+</resources>
+
+

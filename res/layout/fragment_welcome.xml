@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <TextView
+        android:id="@+id/Welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/assisstancewelcome"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/Welcome"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <RadioGroup
+            android:id="@+id/GroupWelcome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" >
+
+            <RadioButton
+                android:id="@+id/radioJob"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/job"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:id="@+id/radioMeeting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/meeting"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:id="@+id/radioParty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/party"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:id="@+id/radioCasual"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/casual"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:id="@+id/radioSport"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sport"
+                android:textSize="25sp" />
+
+            <RadioButton
+                android:id="@+id/radioEvent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/gass_event"
+                android:textSize="25sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+</RelativeLayout>

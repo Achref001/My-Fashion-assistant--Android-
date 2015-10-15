@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <fragment
+        android:id="@+id/tutorial_wizard_fragment"
+        android:name="com.andy.myfashionassistant.wizard.AssistanceWizard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </fragment>
+
+</FrameLayout>

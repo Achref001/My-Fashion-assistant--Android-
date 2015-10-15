@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="289dp"
+        android:layout_weight="0.5"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/image"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="5dip"
+            android:adjustViewBounds="true"
+            android:background="#00000000"
+            android:src="@drawable/selector_pic" />
+
+        <EditText
+            android:id="@+id/titreVetement"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title" />
+
+        <Spinner
+            android:id="@+id/sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

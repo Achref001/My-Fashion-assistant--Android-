@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Navigation -->    
+    <string name="header">utente</string>    
+        
+    <string name="app_name">My Fashion Assistant</string>
+    <string name="clear"></string>
+    <string name="add">ajouter</string>
+    <string name="search">recherche</string>
+    <string name="update">mise à jour</string>
+    <string name="congratulation">vous êtes bien habillé</string>  
+    <string name="notwelldressed">vous n êtes pas bien habillé on vous conseille de redemarrer l assistance</string>      
+    <string name="drawer_open">ouvrir le drawer de la navigation</string>
+    <string name="drawer_close">Navigation drawer </string>
+    <string name="save_image">Enregistrer Image</string>
+    <string name="list_image">Consulter les images</string>
+    <string name="titulo_user">Gassoumi Achref</string>
+    <string name="subtitulo_user">yassine.kharraz@gmail.com</string>   
+	<string name="no_network">problème de connection</string>
+    <string name="tab_one">la temperature d aujourd hui</string>
+    <string name="tab_two">le look d aujourd hui</string>
+     
+    <string name="fragment_my_apps">My Fashion Assistant</string>  
+    
+    <string name="fragment_shop_apps">Tienda de Aplicaciones</string>
+    <string name="fragment_tab_one">This is One</string>    
+    <string name="fragment_tab_two">This is Two</string>
+    <string name="fragment_tab_three">This is Three</string>  
+    <string name="dress_fragment">Choisissez une Robe</string>
+    <string name="coat_fragment">choisissez votre monteau</string>
+    <string name="accessories_fragment">Choisissez vos accessoires</string>
+    <string name="action_settings">paramétres</string>
+    <string name="assisstance">My Fashion Assistant</string>
+   <string name="assisstancewelcome">Salut je sous votre Assitant ! Qu est ce que vous allez faire aujourd hui ?</string>
+    <string name="job">Travail </string>
+    <string name="meeting">Rendez-vous</string>
+    <string name="party">Fêtes</string>
+    <string name="casual">Quotidien</string>
+    <string name="sport">Sport</string>
+    <string name="gass_event">Evénement</string>
+    <string name="shoose_apper_body">Choisissez la partie haute </string>
+    <string name="shoes_fashion">Choisissez vos chaussures</string>
+    <string name="choose_lower">Choisissez la partie basse</string>
+    <string name="calendrier_ach">Pas d assistance</string>
+    
+    <string name="change_city">Changez ville</string>
+    <string name="finish_fragment_txt">Vous allez prendre ses vêtements</string>
+ 
+    <!-- Put your own APP ID here -->
+    <string name="open_weather_maps_app_id">11111</string>
+     
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+     <string name="assistance_resultat">Resultat de l assistance :</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+     
+    <string name="place_not_found">Pas de méteo</string>   
+    
+    <string name="sel_date">%s</string>
+    <string name="facebook_app_id">936046706423670</string> 
+    <string name="share">Partage</string>
+    <string name="review">Revoir</string>
+
+    <string name="geo_status_searching">Waiting GPS &#8230;</string>
+    <string name="geo_status_found">Location found</string>
+    <string name="geo_status_location">%1$s \n(%2$s)</string>
+
+    <string-array name="image_photo_sources">
+        <item>Pick from gallery</item>
+        <item>Capture new photo</item>
+    </string-array>
+    
+    
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="finish">Submit order</string>
+	<string name="refresh">Cliquer pour rafraîchir</string>    
+    <string name="submit_confirm_message">Place the order with the deli? You will receive an email
+        confirmation.</string>
+    <string name="submit_confirm_button">Place order</string>
+
+    <string name="label_your_name">Name</string>
+    <string name="hint_your_name">e.g. Larry</string>
+    <string name="label_your_email">Email</string>
+    <string name="hint_your_email">Optional</string>
+</resources >

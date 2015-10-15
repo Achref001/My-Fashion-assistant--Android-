@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_menu_items">
+        <item>Accueil</item>
+        <item>Mon assistance</item>        
+        <item>Mes vêtements</item>
+        <item>Calendrier</item>
+        <item>Shopping</item>
+        <item>Magazines</item>
+        <item>Quitter</item>               
+    </string-array>   
+    
+     
+</resources>
+
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Navigation -->    
+    <string name="header">utente</string>    
+        
+    <string name="app_name">My Fashion Assistant</string>
+    <string name="clear"></string>
+    <string name="add">ajouter</string>
+    <string name="search">recherche</string>
+    <string name="update">mise à jour</string>
+        
+    <string name="drawer_open">ouvrir le drawer de la navigation</string>
+    <string name="drawer_close">Navigation drawer Close</string>
+    <string name="save_image">guardar imagen</string>
+    <string name="list_image">Lista imágenes</string>
+    <string name="titulo_user">Gassoumi Achref</string>
+    <string name="subtitulo_user">yassine.kharraz@gmail.com</string>   
+	
+	<string name="no_network">problema de conexión</string>
+    <string name="tab_one">Méteo du jour</string>
+    <string name="tab_two">Look du jour</string>
+     
+    
+    <string name="fragment_my_apps">Mi apoyo</string>      
+    <string name="fragment_shop_apps">application du magasin</string>
+    <string name="fragment_tab_one">This is One</string>    
+    <string name="fragment_tab_two">This is Two</string>
+    <string name="fragment_tab_three">This is Three</string>  
+    <string name="dress_fragment">Dress Fragment</string>
+    <string name="coat_fragment">Elige tu abrigo</string>
+    <string name="accessories_fragment">Elige tus accesorios</string>
+    <string name="action_settings">paramétres</string>
+    <string name="assisstance">mon assistance</string>
+   <string name="assisstancewelcome">Hola soy su asistente! ¿Qué vas a hacer hoy?</string>
+    <string name="job">Trabajo </string>
+    <string name="meeting">Nombramiento</string>
+    <string name="party">vacaciones</string>
+    <string name="casual">diario</string>
+    <string name="sport">deporte</string>
+    <string name="gass_event">evento</string>
+    <string name="shoose_apper_body">Elija la parte superior </string>
+    <string name="shoes_fashion">Elige tus zapatos</string>
+    <string name="choose_lower">Elija la parte inferior</string>
+    <string name="calendrier_ach">No hay soporte</string>
+    
+    <string name="change_city">Cambiar ciudad</string>
+    <string name="finish_fragment_txt">Va a quitarse la ropa</string>
+ 
+    <!-- Put your own APP ID here -->
+    <string name="open_weather_maps_app_id">11111</string>
+     
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+     
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+     
+    <string name="place_not_found">	sin tiempo</string>   
+    
+    <string name="sel_date">%s</string>
+    <string name="facebook_app_id">936046706423670</string> 
+    <string name="share">compartiendo</string>
+    <string name="review">revisión</string>
+
+    <string name="geo_status_searching">Waiting GPS &#8230;</string>
+    <string name="geo_status_found">Location found</string>
+    <string name="geo_status_location">%1$s \n(%2$s)</string>
+
+    <string-array name="image_photo_sources">
+        <item>Pick from gallery</item>
+        <item>Capture new photo</item>
+    </string-array>
+    
+    
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="finish">Submit order</string>
+	<string name="refresh">Haga clic para actualizar</string>    
+    <string name="submit_confirm_message">Place the order with the deli? You will receive an email
+        confirmation.</string>
+    <string name="submit_confirm_button">Place order</string>
+
+    <string name="label_your_name">Name</string>
+    <string name="hint_your_name">e.g. Larry</string>
+    <string name="label_your_email">Email</string>
+    <string name="hint_your_email">Optional</string>
+</resources >
